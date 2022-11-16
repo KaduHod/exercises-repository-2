@@ -14,7 +14,7 @@ export const mainHandler = () => {
     function getExercisesFromSubMuscleContainer(container){
         return [...container.querySelectorAll('a')]
                                 .map(a => a.href)
-                                // .filter(str => checkIfIsValidExerciseLink(str))
+                                .filter(str => checkIfIsValidExerciseLink(str))
     }
     
     function checkIfIsValidExerciseLink(str){
