@@ -1,5 +1,5 @@
 
-export const handlerExercise = (dom) => {
+const handlerExercise = (dom) => {
     function getForce(container){
         try {
             const forceH = container.querySelectorAll('strong')[2];
@@ -46,9 +46,9 @@ console.log(error)
         }
     }
     
-    function getExerciseName(dom){
+    function getExerciseName(){
         try {
-            return dom.document.getElementsByClassName('page-title')[0].textContent
+            return document.getElementsByClassName('page-title')[0].textContent
         } catch (error) {
             console.log(error)
             return null
@@ -84,16 +84,16 @@ console.log(error)
         
     }
     
-    let article = dom.document.body.querySelector('article')
+    let article = document.body.querySelector('article')
     if(!article.textContent) {
-        article = dom.document.body.querySelectorAll('article')[1]
+        article = document.body.querySelectorAll('article')[1]
     }
     let [infoContainer,container] = article.firstChild.firstChild.childNodes
 
     if(!container){
         [infoContainer,container] = infoContainer.querySelectorAll('.col-sm-6')
     }
-    
+
     let uls = getUls(container)
     let obj = uls.reduce((acc, ul) => {
         let title = getTitle(ul)
@@ -103,7 +103,7 @@ console.log(error)
         return acc;
     }, {});
 
-    obj.exerciseName = getExerciseName(dom);
+    obj.exerciseName = getExerciseName();
     obj.preparation = getPreparation(infoContainer)
     obj.execution = getExecution(infoContainer)
     obj.mechanic = getMechanic(infoContainer)
@@ -111,3 +111,5 @@ console.log(error)
 
     return obj
 }
+
+handlerExercise()

@@ -1,0 +1,1463 @@
+{
+    "Scapula & Clavicle": [
+        {
+            "movment": "Abduction (Protraction)",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/SerratusAnterior",
+                    "name": "Serratus anterior"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/PectoralisMinor",
+                    "name": "Pectoralis minor"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/LevatorScapulae",
+                    "name": "Levator scapulae"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/PectoralisSternal",
+                    "name": "Pectoralis major (sternal head)"
+                }
+            ]
+        },
+        {
+            "movment": "Adduction (Retraction)",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/TrapeziusMiddle",
+                    "name": "Trapezius (middle fibers)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/TrapeziusLower",
+                    "name": "Trapezius (lower fibers)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Rhomboids",
+                    "name": "Rhomboids"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/LatissimusDorsi",
+                    "name": "Latissimus dorsi"
+                }
+            ]
+        },
+        {
+            "movment": "Depression",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/PectoralisMinor",
+                    "name": "Pectoralis minor"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/LatissimusDorsi",
+                    "name": "Latissimus dorsi"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/PectoralisSternal",
+                    "name": "Pectoralis major"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/TrapeziusLower",
+                    "name": "Trapezius (lower fibers)"
+                }
+            ]
+        },
+        {
+            "movment": "Elevation",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/TrapeziusUpper",
+                    "name": "Trapezius (upper fibers)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/TrapeziusMiddle",
+                    "name": "Trapezius (middle fibers)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/LevatorScapulae",
+                    "name": "Levator scapulae"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/SerratusAnterior",
+                    "name": "Serratus anterior (upper fibers)"
+                }
+            ]
+        },
+        {
+            "movment": "Upward Rotation (Superior Rotation)",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/TrapeziusMiddle",
+                    "name": "Trapezius (middle fibers)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/TrapeziusLower",
+                    "name": "Trapezius (lower fibers)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/SerratusAnterior",
+                    "name": "Serratus anterior (lower fibers)"
+                }
+            ]
+        },
+        {
+            "movment": "Downward Rotation (Inferior Rotation)",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/LevatorScapulae",
+                    "name": "Levator scapulae"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Rhomboids",
+                    "name": "Rhomboids"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/PectoralisMinor",
+                    "name": "Pectoralis minor"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/PectoralisSternal",
+                    "name": "Pectoralis major"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/LatissimusDorsi",
+                    "name": "Latissimus dorsi"
+                }
+            ]
+        }
+    ],
+    "Shoulder Glenohumeral": [
+        {
+            "movment": "Flexion",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/DeltoidAnterior",
+                    "name": "Deltoid (anterior)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/DeltoidLateral",
+                    "name": "Deltoid (lateral)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/PectoralisClavicular",
+                    "name": "Pectoralis major (clavicular head)"
+                },
+                "Coracobrachialis",
+                {
+                    "link": "https://exrx.net/Muscles/BicepsBrachii",
+                    "name": "Biceps brachii (short head)"
+                }
+            ]
+        },
+        {
+            "movment": "Extension",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/LatissimusDorsi",
+                    "name": "Latissimus dorsi"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/DeltoidPosterior",
+                    "name": "Deltoid (posterior)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/PectoralisSternal",
+                    "name": "Pectoralis major (sternal head)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/TeresMajor",
+                    "name": "Teres major"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/TricepsBrachii",
+                    "name": "Triceps brachii (long head)"
+                }
+            ]
+        },
+        {
+            "movment": "Adduction",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/LatissimusDorsi",
+                    "name": "Latissimus dorsi"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/PectoralisSternal",
+                    "name": "Pectoralis major (sternal head)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/PectoralisClavicular",
+                    "name": "Pectoralis major (clavicular head)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/TeresMajor",
+                    "name": "Teres major"
+                },
+                {
+                    "name": "Coracobrachialis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/TricepsBrachii",
+                    "name": "Triceps brachii (long head)"
+                }
+            ]
+        },
+        {
+            "movment": "Abduction",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/DeltoidLateral",
+                    "name": "Deltoid (lateral)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/DeltoidAnterior",
+                    "name": "Deltoid (anterior)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Supraspinatus",
+                    "name": "Supraspinatus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/PectoralisClavicular",
+                    "name": "Pectoralis major (clavicular head)"
+                }
+            ]
+        },
+        {
+            "movment": "Transverse Adduction",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/PectoralisSternal",
+                    "name": "Pectoralis major (sternal head)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/PectoralisClavicular",
+                    "name": "Pectoralis major (clavicular head)"
+                },
+                "Coracobrachialis"
+            ]
+        },
+        {
+            "movment": "Transverse Flexion",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/PectoralisSternal",
+                    "name": "Pectoralis major (sternal head)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/PectoralisClavicular",
+                    "name": "Pectoralis major (clavicular head)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/DeltoidAnterior",
+                    "name": "Deltoid (anterior)"
+                },
+                "Coracobrachialis",
+                {
+                    "link": "https://exrx.net/Muscles/BicepsBrachii",
+                    "name": "Biceps brachii (short head)"
+                }
+            ]
+        },
+        {
+            "movment": "Transverse Abduction",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/DeltoidPosterior",
+                    "name": "Deltoid (posterior)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/DeltoidLateral",
+                    "name": "Deltoid (lateral)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Infraspinatus",
+                    "name": "Infraspinatus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/TeresMinor",
+                    "name": "Teres minor"
+                }
+            ]
+        },
+        {
+            "movment": "Transverse Extension",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/DeltoidPosterior",
+                    "name": "Deltoid (posterior)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/LatissimusDorsi",
+                    "name": "Latissimus dorsi"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Infraspinatus",
+                    "name": "Infraspinatus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/TeresMinor",
+                    "name": "Teres minor"
+                }
+            ]
+        },
+        {
+            "movment": "Medial Rotation (Internal Rotation)",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/PectoralisSternal",
+                    "name": "Pectoralis major (sternal head)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/PectoralisClavicular",
+                    "name": "Pectoralis major (clavicular head)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/LatissimusDorsi",
+                    "name": "Latissimus dorsi"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/DeltoidAnterior",
+                    "name": "Deltoid (anterior)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Subscapularis",
+                    "name": "Subscapularis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/TeresMajor",
+                    "name": "Teres major"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Supraspinatus",
+                    "name": "Supraspinatus"
+                }
+            ]
+        },
+        {
+            "movment": "Lateral Rotation (External Rotation)",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/TeresMinor",
+                    "name": "Teres minor"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Infraspinatus",
+                    "name": "Infraspinatus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/DeltoidPosterior",
+                    "name": "Deltoid (posterior)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Supraspinatus",
+                    "name": "Supraspinatus"
+                }
+            ]
+        }
+    ],
+    "Elbow": [
+        {
+            "movment": "Flexion",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/Brachialis",
+                    "name": "Brachialis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/BicepsBrachii",
+                    "name": "Biceps brachii"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Brachioradialis",
+                    "name": "Brachioradialis"
+                }
+            ]
+        },
+        {
+            "movment": "Extension",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/TricepsBrachii",
+                    "name": "Triceps brachii"
+                },
+                "Anconeus"
+            ]
+        }
+    ],
+    "Forearm Radioulnar": [
+        {
+            "movment": "Pronation",
+            "musclesFromMovement": [
+                "Pronator quadratus",
+                "Pronator teres",
+                {
+                    "name": "Flexor carpi radialis"
+                },
+                {
+                    "name": "Anconeus"
+                }
+            ]
+        },
+        {
+            "movment": "Supination",
+            "musclesFromMovement": [
+                "Supinator",
+                {
+                    "link": "https://exrx.net/Muscles/BicepsBrachii",
+                    "name": "Biceps Brachii"
+                }
+            ]
+        }
+    ],
+    "Wrist & Midcarpals": [
+        {
+            "movment": "Flexion",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/WristFlexors",
+                    "name": "Flexor carpi radialis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristFlexors",
+                    "name": "Flexor carpi ulnaris"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristFlexors",
+                    "name": "Palmaris longus"
+                },
+                {
+                    "name": "Abductor pollicis longus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristFlexors",
+                    "name": "Flexor digitorum profundus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristFlexors",
+                    "name": "Flexor digitorum superficialis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristFlexors",
+                    "name": "Flexor pollicis longus"
+                }
+            ]
+        },
+        {
+            "movment": "Extension / Hyperextension",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor carpi radialis longus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor carpi radialis brevis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor carpi ulnaris"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor digitorum"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor pollicis longus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor indicis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor digiti minimi"
+                }
+            ]
+        },
+        {
+            "movment": "Adduction (Ulna Deviation)",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/WristFlexors",
+                    "name": "Flexor carpi ulnaris"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor carpi ulnaris"
+                }
+            ]
+        },
+        {
+            "movment": "Abduction (Radial Deviation)",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor carpi radialis longus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor carpi radialis brevis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristFlexors",
+                    "name": "Flexor carpi radialis"
+                },
+                {
+                    "name": "Abductor pollicis longus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor pollicis brevis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor pollicis longus"
+                }
+            ]
+        }
+    ],
+    "Finger Metacarpophalangeal": [
+        {
+            "movment": "Flexion",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/WristFlexors",
+                    "name": "Flexor digitorum profundus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristFlexors",
+                    "name": "Flexor digitorum superficialis"
+                },
+                "Flexor digiti minimi",
+                {
+                    "name": "Abductor digiti minimi"
+                },
+                {
+                    "name": "Interossei"
+                },
+                {
+                    "name": "Lumbricals"
+                }
+            ]
+        },
+        {
+            "movment": "Extension / Hyperextension",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor digitorum"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor digiti minimi"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor indicis"
+                }
+            ]
+        },
+        {
+            "movment": "Adduction",
+            "musclesFromMovement": [
+                "Palmar interossei",
+                {
+                    "link": "https://exrx.net/Muscles/WristFlexors",
+                    "name": "Flexor digitorum superficialis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristFlexors",
+                    "name": "Flexor digitorum profundus"
+                }
+            ]
+        },
+        {
+            "movment": "Abduction",
+            "musclesFromMovement": [
+                "Dorsal interosssei",
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor digitorum"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor digiti minimi"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor indicis"
+                },
+                "Abductor digiti minimi"
+            ]
+        }
+    ],
+    "Finger Interphalangeal": [
+        {
+            "movment": "Flexion",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/WristFlexors",
+                    "name": "Flexor digitorum profundus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristFlexors",
+                    "name": "Flexor digitorum superficialis"
+                }
+            ]
+        },
+        {
+            "movment": "Extension",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor digitorum"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor digiti minimi"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor indicis"
+                },
+                "Lumbricals",
+                "Interossei"
+            ]
+        }
+    ],
+    "Thumb Carpometacarpal": [
+        {
+            "movment": "Flexion",
+            "musclesFromMovement": [
+                "Flexor pollicis brevis",
+                {
+                    "link": "https://exrx.net/Muscles/WristFlexors",
+                    "name": "Flexor pollicis longus"
+                },
+                {
+                    "name": "Opponens pollicis"
+                }
+            ]
+        },
+        {
+            "movment": "Extension",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor pollicis longus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor pollicis brevis"
+                },
+                "Abductor pollicis longus"
+            ]
+        },
+        {
+            "movment": "Adduction",
+            "musclesFromMovement": [
+                "Adductor pollicis",
+                "1st dorsal interosseous",
+                {
+                    "name": "Extensor pollicis longus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristFlexors",
+                    "name": "Flexor pollicis longus"
+                }
+            ]
+        },
+        {
+            "movment": "Abduction",
+            "musclesFromMovement": [
+                "Abductor pollicis longus",
+                "Abductor pollicis brevis"
+            ]
+        },
+        {
+            "movment": "Opposition",
+            "musclesFromMovement": [
+                "Opponens pollicis",
+                "Abductor pollicis brevis",
+                "Flexor pollicis brevis",
+                {
+                    "link": "https://exrx.net/Muscles/WristFlexors",
+                    "name": "Flexor pollicis longus"
+                },
+                {
+                    "name": "Adductor pollicis"
+                }
+            ]
+        }
+    ],
+    "Thumb Metacarpophalangeal": [
+        {
+            "movment": "Flexion",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/WristFlexors",
+                    "name": "Flexor pollicis longus"
+                },
+                "Flexor pollicis brevis",
+                {
+                    "name": "1st palmar interosseous"
+                },
+                {
+                    "name": "Abductor pollicis brevis"
+                }
+            ]
+        },
+        {
+            "movment": "Extension",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor pollicis longus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor pollicis brevis"
+                }
+            ]
+        },
+        {
+            "movment": "Adduction",
+            "musclesFromMovement": [
+                "Adductor pollicis",
+                "1st palmar interosseous"
+            ]
+        },
+        {
+            "movment": "Abduction",
+            "musclesFromMovement": [
+                "Abductor pollicis brevis"
+            ]
+        }
+    ],
+    "Thumb Interphalangeal": [
+        {
+            "movment": "Flexion",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/WristFlexors",
+                    "name": "Flexor pollicis longus"
+                }
+            ]
+        },
+        {
+            "movment": "Extension / Hyperextension",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/WristExtensors",
+                    "name": "Extensor pollicis longus"
+                },
+                {
+                    "name": "Abductor pollicis brevis"
+                },
+                {
+                    "name": "Adductor pollicis"
+                }
+            ]
+        }
+    ],
+    "Neck Atlantoccipital & Antlantoaxial": [
+        {
+            "movment": "Flexion",
+            "musclesFromMovement": [
+                "Longus capitis",
+                "Rectus capitis anterior",
+                {
+                    "link": "https://exrx.net/Muscles/Sternocleidomastoid",
+                    "name": "Sternocleidomastoid (anterior fibers)"
+                }
+            ]
+        },
+        {
+            "movment": "Extension / Hyperextension",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/ErectorSpinae",
+                    "name": "Semispinalis capitis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Splenius",
+                    "name": "Splenus capitis"
+                },
+                "Rectus capitis posterior major",
+                "Rectus capitis posterior minor",
+                "Obliquus capitis superior",
+                {
+                    "link": "https://exrx.net/Muscles/ErectorSpinae",
+                    "name": "Longissimus capitis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/TrapeziusUpper",
+                    "name": "Trapezius (upper fibers)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Sternocleidomastoid",
+                    "name": "Sternocleidomastoid (posterior fibers)"
+                }
+            ]
+        },
+        {
+            "movment": "Lateral Flexion (Abduction)",
+            "musclesFromMovement": [
+                {
+                    "name": "See muscles responsible for "
+                }
+            ]
+        },
+        {
+            "movment": "Reduction (Adduction)",
+            "musclesFromMovement": [
+                {
+                    "name": "See muscles responsible for "
+                }
+            ]
+        },
+        {
+            "movment": "Rotation",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/Sternocleidomastoid",
+                    "name": "Sternocleidomastoid"
+                },
+                "Obliquus capitis inferior",
+                "Obliquus capitis superior",
+                "Rectus capitis lateralis",
+                {
+                    "link": "https://exrx.net/Muscles/ErectorSpinae",
+                    "name": "Longissimus capitis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Splenius",
+                    "name": "Splenius capitis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/ErectorSpinae",
+                    "name": "Semispinalis capitis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/TrapeziusUpper",
+                    "name": "Trapezius (upper fibers)"
+                }
+            ]
+        }
+    ],
+    "Spine Cervical": [
+        {
+            "movment": "Flexion",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/Sternocleidomastoid",
+                    "name": "Sternocleidomastoid"
+                },
+                "Longus colli",
+                "Longus capitis"
+            ]
+        },
+        {
+            "movment": "Extension / Hyperextension",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/Splenius",
+                    "name": "Splenius"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/ErectorSpinae",
+                    "name": "Semispinalis capitis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/ErectorSpinae",
+                    "name": "Semispinalis cervicis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/ErectorSpinae",
+                    "name": "Iliocostalis cervicis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/ErectorSpinae",
+                    "name": "Longissimus capitis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/ErectorSpinae",
+                    "name": "Longissimus cervicis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/TrapeziusUpper",
+                    "name": "Trapezius (upper fibers)"
+                },
+                {
+                    "name": "Interspinales"
+                }
+            ]
+        },
+        {
+            "movment": "Lateral Flexion (Abduction)",
+            "musclesFromMovement": [
+                "Scalenes",
+                {
+                    "link": "https://exrx.net/Muscles/LevatorScapulae",
+                    "name": "Levator scapulae"
+                },
+                {
+                    "name": "Also see muscles responsible for "
+                }
+            ]
+        },
+        {
+            "movment": "Reduction (Adduction)",
+            "musclesFromMovement": [
+                "Scalenes",
+                {
+                    "link": "https://exrx.net/Muscles/LevatorScapulae",
+                    "name": "Levator scapulae"
+                },
+                {
+                    "name": "Also see muscles responsible for "
+                }
+            ]
+        },
+        {
+            "movment": "Rotation",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/Sternocleidomastoid",
+                    "name": "Sternocleidomastoid"
+                },
+                "Scalenes",
+                {
+                    "link": "https://exrx.net/Muscles/Splenius",
+                    "name": "Spenius"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/ErectorSpinae",
+                    "name": "Longissimus capitis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/ErectorSpinae",
+                    "name": "Longissimus cervicis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/ErectorSpinae",
+                    "name": "Iliocastalis cervicis"
+                },
+                "Multifidus",
+                {
+                    "link": "https://exrx.net/Muscles/LevatorScapulae",
+                    "name": "Levator scapulae"
+                },
+                {
+                    "name": "Longus colli"
+                },
+                {
+                    "name": "Intertrasversarii"
+                }
+            ]
+        }
+    ],
+    "Spine Thoracic, Lumbar": [
+        {
+            "movment": "Flexion",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/RectusAbdominis",
+                    "name": "Rectus Abdominis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Obliques",
+                    "name": "Obliques"
+                }
+            ]
+        },
+        {
+            "movment": "Extension / Hyperextension",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/ErectorSpinae",
+                    "name": "Erector Spinae"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/QuadratusLumborum",
+                    "name": "Quadratus lumborum"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/TrapeziusLower",
+                    "name": "Trapezius (lower)"
+                }
+            ]
+        },
+        {
+            "movment": "Lateral Flexion (Abduction)",
+            "musclesFromMovement": [
+                {
+                    "name": "See muscles responsible for "
+                }
+            ]
+        },
+        {
+            "movment": "Reduction (Adduction)",
+            "musclesFromMovement": [
+                {
+                    "name": "See muscles responsible for "
+                }
+            ]
+        },
+        {
+            "movment": "Rotation",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/Obliques",
+                    "name": "Obliques"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Iliopsoas",
+                    "name": "Psoas major"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/QuadratusLumborum",
+                    "name": "Quadratus lumborum"
+                },
+                "Multifidus",
+                {
+                    "link": "https://exrx.net/Muscles/ErectorSpinae",
+                    "name": "Iliocastalis lumborum"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/ErectorSpinae",
+                    "name": "Iliocastalis thoracis"
+                },
+                "Rotatores",
+                {
+                    "name": "Intertransversarii"
+                }
+            ]
+        }
+    ],
+    "Hip": [
+        {
+            "movment": "Flexion",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/Iliopsoas",
+                    "name": "Iliopsoas"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/TensorFasciaeLatae",
+                    "name": "Tensor fasciae latae"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Quadriceps",
+                    "name": "Rectus femoris"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Sartorius",
+                    "name": "Sartorius"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Adductors",
+                    "name": "Adductor Longus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Adductors",
+                    "name": "Adductor Brevis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Pectineus",
+                    "name": "Pectineus"
+                }
+            ]
+        },
+        {
+            "movment": "Extension",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/GluteusMaximus",
+                    "name": "Gluteus maximus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Hamstrings",
+                    "name": "Semitendinosus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Hamstrings",
+                    "name": "Semimembranosus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Hamstrings",
+                    "name": "Biceps femoris (long head)"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Adductors",
+                    "name": "Adductor Magnus (ischial fibers)"
+                }
+            ]
+        },
+        {
+            "movment": "Adduction",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/Adductors",
+                    "name": "Adductors"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Pectineus",
+                    "name": "Pectineus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Gracilis",
+                    "name": "Gracilis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/GluteusMaximus",
+                    "name": "Gluteus maximus, lower fibers"
+                }
+            ]
+        },
+        {
+            "movment": "Abduction",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/GluteusMedius",
+                    "name": "Gluteus medius"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/GluteusMinimus",
+                    "name": "Gluteus minimus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/TensorFasciaeLatae",
+                    "name": "Tensor fasciae latae"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Sartorius",
+                    "name": "Sartorius"
+                }
+            ]
+        },
+        {
+            "movment": "Transverse Adduction",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/Adductors",
+                    "name": "Adductors"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Pectineus",
+                    "name": "Pectineus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Gracilis",
+                    "name": "Gracilis"
+                }
+            ]
+        },
+        {
+            "movment": "Transverse Abduction",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/GluteusMaximus",
+                    "name": "Gluteus maximus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/GluteusMedius",
+                    "name": "Gluteus medius"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/GluteusMinimus",
+                    "name": "Gluteus minimus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/HipExernalRotators",
+                    "name": "Piriformis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/HipExernalRotators",
+                    "name": "Obturator Externus"
+                }
+            ]
+        },
+        {
+            "movment": "Medial Rotation (Internal Rotation)",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/TensorFasciaeLatae",
+                    "name": "Tensor fasciae latae"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/GluteusMedius",
+                    "name": "Gluteus medius"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/GluteusMinimus",
+                    "name": "Gluteus minimus, anterior fibers"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/HipExernalRotators",
+                    "name": "Piriformis"
+                }
+            ]
+        },
+        {
+            "movment": "Lateral Rotation (External Rotation)",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/HipExernalRotators",
+                    "name": "Gemellus superior"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/HipExernalRotators",
+                    "name": "Gemellus inferior"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/HipExernalRotators",
+                    "name": "Obturator internus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/HipExernalRotators",
+                    "name": "Obturator externus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/HipExernalRotators",
+                    "name": "Quadratus femoris"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/HipExernalRotators",
+                    "name": "Piriformis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/GluteusMaximus",
+                    "name": "Gluteus maximus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Sartorius",
+                    "name": "Sartorius"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/GluteusMedius",
+                    "name": "Gluteus medius, posterior fibers"
+                }
+            ]
+        }
+    ],
+    "Knee": [
+        {
+            "movment": "Flexion",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/Hamstrings",
+                    "name": "Hamstrings"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Gracilis",
+                    "name": "Gracilis"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Sartorius",
+                    "name": "Sartorius"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Popliteus",
+                    "name": "Popliteus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Gastrocnemius",
+                    "name": "Gastrocnemius"
+                }
+            ]
+        },
+        {
+            "movment": "Extension",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/Quadriceps",
+                    "name": "Quadriceps femoris"
+                }
+            ]
+        },
+        {
+            "movment": "Medial Rotation (Internal Rotation)",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/Popliteus",
+                    "name": "Popliteus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Hamstrings",
+                    "name": "Semimembranosus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Hamstrings",
+                    "name": "Semitendinosus"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Sartorius",
+                    "name": "Sartorius"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Gracilis",
+                    "name": "Gracilis"
+                }
+            ]
+        },
+        {
+            "movment": "Lateral Rotation (External Rotation)",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/Hamstrings",
+                    "name": "Biceps femoris"
+                }
+            ]
+        }
+    ],
+    "Ankle": [
+        {
+            "movment": "Plantar Flexion",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/Gastrocnemius",
+                    "name": "Gastrocnemius"
+                },
+                {
+                    "link": "https://exrx.net/Muscles/Soleus",
+                    "name": "Soleus"
+                },
+                {
+                    "name": "Plantaris"
+                },
+                {
+                    "name": "Tibialis posterior"
+                },
+                {
+                    "name": "Flexor hallucis posterior"
+                },
+                {
+                    "name": "Flexor digitorium longus"
+                }
+            ]
+        },
+        {
+            "movment": "Dorsiflexion",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/TibialisAnterior",
+                    "name": "Tibialis anterior"
+                },
+                {
+                    "name": "Extension digitorum longus"
+                },
+                {
+                    "name": "Extensor hallucis longus"
+                },
+                {
+                    "name": "Peroneus tertius"
+                }
+            ]
+        }
+    ],
+    "Foot Intertarsal": [
+        {
+            "movment": "Inversion (Supination)",
+            "musclesFromMovement": [
+                {
+                    "link": "https://exrx.net/Muscles/TibialisAnterior",
+                    "name": "Tibialis anterior"
+                },
+                "Tibialis posterior"
+            ]
+        },
+        {
+            "movment": "Eversion (Pronation)",
+            "musclesFromMovement": [
+                "Peroneus longus",
+                "Peroneus brevis",
+                {
+                    "name": "Peroneus tertius"
+                }
+            ]
+        },
+        {
+            "movment": "Plantar Flexion",
+            "musclesFromMovement": [
+                "Peroneus longus",
+                "Tibialis posterior",
+                "Abductor hallucis",
+                "Abductor digiti minimi",
+                "Flexor digitorum brevis",
+                {
+                    "name": "Peroneus brevis"
+                }
+            ]
+        }
+    ],
+    "Toe Metatarsophalangeal": [
+        {
+            "movment": "Flexion",
+            "musclesFromMovement": [
+                "Flexor digitorum brevis",
+                "Lumbricales",
+                "Interossei",
+                "Flexor hallucis brevis",
+                "Flexor digitorum brevis",
+                "Flexor hallucis longus",
+                {
+                    "name": "Flexor digiti minimi brevis"
+                },
+                {
+                    "name": "Flexor digitorum longus"
+                },
+                {
+                    "name": "Quadratus plantae"
+                }
+            ]
+        },
+        {
+            "movment": "Extension / Hyperextension",
+            "musclesFromMovement": [
+                "Extensor hallucis longus",
+                "Extensor digitorum",
+                "Extensor digitorum brevis"
+            ]
+        },
+        {
+            "movment": "Abduction",
+            "musclesFromMovement": [
+                "Abductor hallucis",
+                "Abductor digiti minimi",
+                "Dorsal interossei"
+            ]
+        },
+        {
+            "movment": "Adduction",
+            "musclesFromMovement": [
+                "Adductor hallucis",
+                "Plantar interossei"
+            ]
+        }
+    ],
+    "Toe Interphalangeal": [
+        {
+            "movment": "Flexion",
+            "musclesFromMovement": [
+                "Flexor hallucis longus",
+                "Flexor digitorum longus",
+                "Flexor digitorum brevis",
+                {
+                    "name": "Quadratus plantae"
+                }
+            ]
+        },
+        {
+            "movment": "Extension",
+            "musclesFromMovement": [
+                "Extensor hallucis longus",
+                "Extensor digitorum longus",
+                "Extensor digitorum brevis"
+            ]
+        }
+    ]
+}

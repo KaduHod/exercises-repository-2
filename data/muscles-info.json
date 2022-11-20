@@ -1,1 +1,1496 @@
-[{"name":"Sternocleidomastoid","image":null,"heads":["Anterior Fibers","Posterior Fibers"],"articulations":[{"name":"Neck (Atlantooccipital & Atlantoaxial)","movements":["Flexion [1]Both Sides","Both Sides","Rotation [1, 2]Rotation right [Left Sternocleidomastoid]Rotation left [Right Sternocleidomastoid]","Rotation right [Left Sternocleidomastoid]","Rotation left [Right Sternocleidomastoid]","Lateral Flexion [1, 2]Lateral flexion right [Right Sternocleidomastoid]Lateral flexion left [Left Sternocleidomastoid]","Lateral flexion right [Right Sternocleidomastoid]","Lateral flexion left [Left Sternocleidomastoid]","Extension [2]"]},{"name":"Spine (Cervical)","movements":["Flexion [1, 2]Both Sides","Both Sides","Rotation [1, 2]Rotation right [Left Sternocleidomastoid]Rotation left [Right Sternocleidomastoid]","Rotation right [Left Sternocleidomastoid]","Rotation left [Right Sternocleidomastoid]","Lateral Flexion [1, 2]Lateral flexion right [Right Sternocleidomastoid]Lateral flexion left [Left Sternocleidomastoid]","Lateral flexion right [Right Sternocleidomastoid]","Lateral flexion left [Left Sternocleidomastoid]"]}],"origin":["Manubrium"],"insertion":["Mastoid Process"]},{"name":"Rectus Abdominis","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22240%22%20height=%22336%22%3E%3C/svg%3E","heads":["Rectus Abdominis"],"articulations":[{"name":"Spine (Lumbar)","movements":["Flexion"]}],"origin":["Crest"],"insertion":["Cartridge"]},{"name":"Obliques","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22226%22%20height=%22337%22%3E%3C/svg%3E","heads":["External Oblique","Internal Oblique"],"articulations":[{"name":"Spine(Lumbar)","movements":["Flexion [1, 2]Both Sides","Both Sides","RotationRotation right [Left 1, Right 2]Rotation left [Right 1, Left 2]","Rotation right [Left 1, Right 2]","Rotation left [Right 1, Left 2]","Lateral FlexionLateral flexion right [Right 1, Right 2]Lateral flexion left [Left 1, Left 2]","Lateral flexion right [Right 1, Right 2]","Lateral flexion left [Left 1, Left 2]","Intra-abdominal Pressure [1, 2]"]}],"origin":["External Surfaces","Illiac CrestAnterior two thirds","Anterior two thirds","Anterior two thirds","Lateral two thirds"],"insertion":["Anterior Crest","Crest [1]","Conjoint Tendon [2]","Inferior borders"]},{"name":"Erector Spinae","image":"https://exrx.net/application/files/cache/thumbnails/0a6c97d23f6c2dae5a99827d7218cd80.png?ezimgfmt=rs%3Adevice%2Frscb11-1","heads":["IliocastalisLumborumThoracisCervicis","Lumborum","Thoracis","Cervicis","LongissimusThoracisCervicisCapitis","Thoracis","Cervicis","Capitis","SpinalisThoracisCervicisCapitis","Thoracis","Cervicis","Capitis"],"articulations":[{"name":"Spine(Lumbar, Thoracic)","movements":["Extension [1, 2, 3 ]","Lateral Flexion [1 ]","Rotation [1]"]},{"name":"Spine (Cervical)","movements":["Extension [1, 2, 3 ]","Lateral Flexion [1, 2]","Rotation [1, 2]"]},{"name":"Neck (Atlantooccipital & Atlantoaxial)","movements":["ExtensionBoth Sides [2, 3 ]","Both Sides [2, 3 ]","RotationRotation right [Right 2, 3 ]Rotation left [Left 2, 3 ]","Rotation right [Right 2, 3 ]","Rotation left [Left 2, 3 ]","Lateral FlexionLateral flexion right [Right 2, 3 ]Lateral flexion left [Left 2, 3 ]","Lateral flexion right [Right 2, 3 ]","Lateral flexion left [Left 2, 3 ]"]}],"origin":["Lower Posterior Surface [1 ]","Transverse Processes [2 ]","Transverse Processes [2 ]","Transverse Processes [2, 3 ]","Transverse Processes [3 ]"],"insertion":["Transverse Processes [1, 2 ]","Spinous Processes [3 ]","Transverse Processes [2 ]","Spinous Processes [3 ]","Mastoid Process [2 ]","Occipital Bone [3 ]"]},{"name":"Quadratus Lumborum","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22260%22%20height=%22550%22%3E%3C/svg%3E","heads":["Quadratus Lumborum"],"articulations":[{"name":"Spine(Lumbar)","movements":["Lateral FlexionRight Lateral flexion [Right Quadratus Lumborum]Left Lateral flexion [Left Quadratus Lumborum]","Right Lateral flexion [Right Quadratus Lumborum]","Left Lateral flexion [Left Quadratus Lumborum]","Rotation (from rotation to neutral position)","Stabilizes pelvis and lumbar spine"]}],"origin":["Illiac CrestPosterior Inner Lip","Posterior Inner Lip","Posterior Inner Lip"],"insertion":["Transverse Processes","Lower border"]},{"name":"Iliopsoas","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22232%22%20height=%22339%22%3E%3C/svg%3E","heads":["Iliacus","PsoasMajorMinor","Major","Minor"],"articulations":[{"name":"Hip","movements":["Flexion [1, 2]"]},{"name":"Spine (Thoracic & Lumbar)","movements":["Rotation [2]"]}],"origin":["Inner Surface","Base","Thoracic Vertebrae (T-12)","Lumbar Vertebrae (L1-5)","Intervebral Discs"],"insertion":["Lesser Trochanter [2 ]","Shaft below Lesser Trochanter [1 ]"]},{"name":"Latissimus Dorsi","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22213%22%20height=%22381%22%3E%3C/svg%3E","heads":["Latissimus Dorsi"],"articulations":[{"name":"Shoulder","movements":["Adduction","Extension","Internal Rotation","Transverse Extension"]},{"name":"Scapula (Assists)","movements":["Depression","Downward Rotation","Adduction"]}],"origin":["Posterior Crest","Lumbar Vertebrae (L1-5)","Thoracic Vertebrae (T7-12)","Lower 3 or 4 ribs"],"insertion":["Intertubercular Groove (Medial Side)"]},{"name":"Pectoralis Major (Sternal Head)","image":"https://exrx.net/application/files/cache/thumbnails/94a79adb32af9de89d7f10141f38252b.png?ezimgfmt=rs%3Adevice%2Frscb11-1","heads":["Sternal Head (1 of 2 )"],"articulations":[{"name":"Shoulder","movements":["Transverse Flexion","Transverse Adduction","Internal Rotation","Adduction","Extension"]},{"name":"Scapula (Assists)","movements":["Downward Rotation","Depression","Abduction (initial)"]}],"origin":["Costal Cartriges"],"insertion":["Intertubercular Groove (Outer Lip)"]},{"name":"Pectoralis Major (Clavicular Head)","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22270%22%20height=%22536%22%3E%3C/svg%3E","heads":["Clavicular Head (1 of 2 )"],"articulations":[{"name":"Shoulder","movements":["Transverse Flexion","Transverse Adduction","Internal Rotation","Adduction","Flexion","Abduction"]}],"origin":["Medial Half"],"insertion":["Intertubercular Groove (Outer Lip)"]},{"name":"Trapezius (Middle Fibers)","image":null,"heads":["Middle Fibers (1 of 3)"],"articulations":[{"name":"Scapula","movements":["Adduction","Elevation","Upward Rotation"]}],"origin":["Cervical Vertebrae (C7)Spinous Processes","Spinous Processes","Thoracic Vertebrae (T1-3)Spinous Processes","Spinous Processes","Spinous Processes","Spinous Processes"],"insertion":["Acromion Process (Medial Border)","Spine (Superior)Upper Border","Upper Border","Upper Border"]},{"name":"Levator Scapulae","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22301%22%20height=%22366%22%3E%3C/svg%3E","heads":["Levator Scapulae"],"articulations":[{"name":"Scapula","movements":["Elevation","Downward Rotation","Abduction"]},{"name":"Spine (Cervical)","movements":["Lateral FlexionLateral flexion right [Right Levator Scapulae]Lateral flexion left [Left Levator Scapulae]","Lateral flexion right [Right Levator Scapulae]","Lateral flexion left [Left Levator Scapulae]","RotationRotation right [Right Levator Scapulae]Rotation left [Left Levator Scapulae]","Rotation right [Right Levator Scapulae]","Rotation left [Left Levator Scapulae]"]}],"origin":["Transverse Processes"],"insertion":["Medial Border (Superior part)"]},{"name":"Deltoid (Posterior)","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22288%22%20height=%22462%22%3E%3C/svg%3E","heads":["Posterior Deltoid (1 of 3 Deltoids)"],"articulations":[{"name":"Shoulder","movements":["Extension","Transverse Extension","Transverse Abduction","External Rotation"]}],"origin":["Spine (Inferior edge)"],"insertion":["Deltoid Tuberosity"]},{"name":"Rhomboids","image":"https://exrx.net/application/files/6115/1006/9307/RhomboidsHalfSmall.png?ezimgfmt=rs%3Adevice%2Frscb11-1","heads":["Rhomboids Minor","Rhomboids Major"],"articulations":[{"name":"Scapula","movements":["Adduction [1, 2]","Downward Rotation [1, 2]"]}],"origin":["Ligamentum Nuchae [1]","Cervical Vertebrae (C7) [1]Spinous Processes","Spinous Processes","Thoracic VertebraeSpinous ProcessesT1 [1]T2-T5 [2]","Spinous ProcessesT1 [1]T2-T5 [2]","T1 [1]","T2-T5 [2]","Spinous Processes","Spinous ProcessesT1 [1]T2-T5 [2]","T1 [1]","T2-T5 [2]","T1 [1]","T2-T5 [2]"],"insertion":["Medial Border (Below spine)Superior [1]Inferior [2]","Superior [1]","Inferior [2]","Superior [1]","Inferior [2]"]},{"name":"Trapezius (Lower Fibers)","image":null,"heads":["Lower Fibers (1 of 3)"],"articulations":[{"name":"Scapula","movements":["Upper Rotation","Adduction","Depression"]},{"name":"Spine (Thoracic) (weak)","movements":["Extension"]}],"origin":["Thoracic Vertebrae (T4-12)Spinous Processes","Spinous Processes","Spinous Processes"],"insertion":["Spine (Inferior Medial)Triangular Space at Base","Triangular Space at Base","Triangular Space at Base"]},{"name":"Triceps Brachii","image":null,"heads":["Long Head","Lateral Head","Medial Head"],"articulations":[{"name":"Elbow","movements":["Extension [1, 2 , 3 ]"]},{"name":"Shoulder","movements":["Extension [1 ]","Adduction [1 ]"]}],"origin":["Infraglenoid Tubercle","Superior to Radial Groove [2 ]","Inferior to Radial Groove [3 ]"],"insertion":["Olecranon Process"]},{"name":"Pectoralis Minor","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22250%22%20height=%22260%22%3E%3C/svg%3E","heads":["3 Heads"],"articulations":[{"name":"Scapula","movements":["Abduction","Downward Rotation (During Abduction)","Depression"]}],"origin":["Anterior Surface"],"insertion":["Caracoid Process (Medial Border)"]},{"name":"Splenius","image":null,"heads":["Cervicis Splenius","Capitis Splenius"],"articulations":[{"name":"Neck (Atlantooccipital & Atlantoaxial)","movements":["ExtensionBoth Sides [2 ]","Both Sides [2 ]","RotationRotation right [Right 2 ]Rotation left [Left 2 ]","Rotation right [Right 2 ]","Rotation left [Left 2 ]","Lateral FlexionLateral flexion right [Right 2 ]Lateral flexion left [Left 2 ]","Lateral flexion right [Right 2 ]","Lateral flexion left [Left 2 ]"]},{"name":"Spine (Cervical)","movements":["ExtensionBoth Sides [1, 2 ]","Both Sides [1, 2 ]","RotationRotation right [Right 1, 2 ]Rotation left [Left 1, 2 ]","Rotation right [Right 1, 2 ]","Rotation left [Left 1, 2 ]","Lateral FlexionLateral flexion right [Right 1, 2 ]Lateral flexion left [Left 1, 2 ]","Lateral flexion right [Right 1, 2 ]","Lateral flexion left [Left 1, 2 ]"]}],"origin":["Thoracic Vertebrae (T3-6) [1 ]Spinous Processes","Spinous Processes","Thoracic Vertebrae (T3-4) [2 ]Spinous Processes","Spinous Processes","Cervical Vertebrae (C7) [2 ]Spinous Processes","Spinous Processes","Spinous Processes","Spinous Processes","Spinous Processes","Lower Half"],"insertion":["Cervical Vertebrae (C1-3)Transverse Processes","Transverse Processes","Transverse Processes","Mastoid Process","Occipital Bone"]},{"name":"Trapezius (Upper Fibers)","image":null,"heads":["Upper Fibers (1 of 3)Part IPart II","Part I","Part II"],"articulations":[{"name":"Scapula","movements":["Elevation [1, 2]"]},{"name":"Spine (Cervical)","movements":["Extension [1]"]},{"name":"Neck (Atlantoccipital & Antlantoaxial)","movements":["Extension [1]","Lateral Flexion [1]","Rotation [1]"]}],"origin":["Superior Nuchal Line (Medial Third)","Occipital Protuberance (External)"],"insertion":["Lateral Third (Posterior) [ 1, 2]"]},{"name":"Quadriceps","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22149%22%20height=%22539%22%3E%3C/svg%3E","heads":["Rectus Femoris","Vastus Lateralis (Externus)","Vastus Intermedius","Vastus Medialis (Internus)"],"articulations":[{"name":"Knee","movements":["Extension [1, 2, 3, 4 ]"]},{"name":"Hip","movements":["Flexion [1 ]"]}],"origin":["Iliac Spine (Anterior Inferior)","Lateral Surface [2 ]","Anterior Surface [3 ]","Medial Surface [4 ]"],"insertion":["TuberosityPatellar TendonPatella","Patellar TendonPatella","Patella","Patellar TendonPatella","Patella","Patella"]},{"name":"Tensor Fasciae Latae","image":null,"heads":["Tensor Fasciae Latae"],"articulations":[{"name":"Hip","movements":["Flexion","Abduction","Internal Rotation"]}],"origin":["Iliac Spine (Anterior Superior)"],"insertion":["Lateral CondyleIliotibial Tract (Lateral Thigh)","Iliotibial Tract (Lateral Thigh)","Iliotibial Tract (Lateral Thigh)"]},{"name":"Sartorius","image":null,"heads":["Sartorius"],"articulations":[{"name":"Hip","movements":["Flexion","Abduction","External Rotation"]},{"name":"Knee","movements":["Flexion"]}],"origin":["Iliac Spine (Anterior Superior)"],"insertion":["Medial Condyle (Anterior)"]},{"name":"Gastrocnemius","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22228%22%20height=%22418%22%3E%3C/svg%3E","heads":["Medial Head","Lateral Head"],"articulations":[{"name":"Ankle","movements":["Plantar Flexion [1, 2 ]"]},{"name":"Knee","movements":["Flexion [1, 2 ]"]}],"origin":["Medial Condyle (Posterior) [1 ]","Lateral Condyle (Posterior) [2 ]"],"insertion":["Achilles Tendon [1, 2 ]"]},{"name":"Soleus","image":null,"heads":["Soleus"],"articulations":[{"name":"Ankle","movements":["Plantar Flexion"]}],"origin":[],"insertion":["Achilles Tendon"]},{"name":"Gluteus Medius","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22157%22%20height=%22544%22%3E%3C/svg%3E","heads":["Anterior Fibers","Posterior Fibers"],"articulations":[{"name":"Hip","movements":["Abduction [1, 2]","Transverse Abduction [1, 2]","Internal Rotation [1]","External Rotation (during Abduction) [2]"]}],"origin":["External Surface just below crestAnterior [1]Posterior [2]","Anterior [1]","Posterior [2]","Anterior [1]","Posterior [2]"],"insertion":["Greater TrochanterPosterior and Lateral Surface [1, 2]","Posterior and Lateral Surface [1, 2]","Posterior and Lateral Surface [1, 2]"]},{"name":"Gluteus Minimus","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22250%22%20height=%22365%22%3E%3C/svg%3E","heads":["Gluteus Minimus"],"articulations":[{"name":"Hip","movements":["Abduction","Transverse Abduction","Internal Rotation (during Abduction)"]}],"origin":["External SurfaceBelow the origin of the Gluteus Medius","Below the origin of the Gluteus Medius","Below the origin of the Gluteus Medius"],"insertion":["Greater TrochanterAnterior Surface","Anterior Surface","Anterior Surface"]},{"name":"Serratus Anterior","image":null,"heads":["DigitationsSuperiorInferior (Longer)","Superior","Inferior (Longer)"],"articulations":[{"name":"Scapula","movements":["Abduction [1, 2]","Upward Rotation [2]","Elevation (Weak) [1]"]}],"origin":["Upper 8 or 9"],"insertion":["Medial BorderAnterior Surface","Anterior Surface","Anterior Surface"]},{"name":"Deltoid (Anterior)","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22270%22%20height=%22536%22%3E%3C/svg%3E","heads":["Anterior Deltoid (1 of 3)"],"articulations":[{"name":"Shoulder","movements":["Abduction","Flexion","Transverse Flexion","Internal Rotation"]}],"origin":[],"insertion":["Deltoid Tuberosity"]},{"name":"Hamstrings","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22157%22%20height=%22544%22%3E%3C/svg%3E","heads":["Biceps Femoris, Long Head","Biceps Femoris, Short Head","Semitendinosus","Semimembranosus"],"articulations":[{"name":"Knee","movements":["Flexion [1, 2, 3, 4 ]","External Rotation [1, 2 ]","Internal Rotation [3, 4 ]"]},{"name":"Hip","movements":["Extension [1, 3, 4 ]"]}],"origin":["Ishial Tuberosity [1, 3, 4 ]","Linea Aspera","Lateral Condyloid Ridge"],"insertion":["Lateral Condyle [1, 2 ]?","Medial Condyle [3, 4 ]","Head [1, 2 ]"]},{"name":"Deltoid (Lateral)","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22288%22%20height=%22462%22%3E%3C/svg%3E","heads":["Lateral Deltoid (1 of 3 Deltoids)"],"articulations":[{"name":"Shoulder","movements":["Abduction","Flexion","Transverse Abduction"]}],"origin":["Acromion (Lateral)"],"insertion":["Deltoid Tuberosity"]},{"name":"Supraspinatus","image":null,"heads":["Supraspinatus"],"articulations":[{"name":"Shoulder","movements":["Abduction","External Rotation *","Internal Rotation *","Stabilization"]}],"origin":["Supraspinous fossa"],"insertion":["Greater Tubercle (Superior)"]},{"name":"Wrist Extensors","image":null,"heads":["Extensor Digitorum","Extensor Carpi Radialis Longus","Extensor Carpi Radialis Brevis","Extensor Carpi Ulnaris","Extensor Indicis","Extensor Digiti Minimi","Entensor Pollicis Longus","Extensor Pollicis Brevis"],"articulations":[{"name":"Wrist","movements":["Extension [1, 2, 3, 4, 5, 6, 7]","Abduction [2, 3, 7, 8]","Adduction [4]"]},{"name":"Fingers","movements":["ExtensionIndex [1, 5]Middle [1]Ring [1]Little [1, 6]","Index [1, 5]","Middle [1]","Ring [1]","Little [1, 6]","AbductionIndex [1, 5]Middle [1]Ring [1]Little [1, 6]","Index [1, 5]","Middle [1]","Ring [1]","Little [1, 6]"]},{"name":"Thumb","movements":["Extension [7, 8]"]},{"name":"Elbow (very weak)","movements":["Extension [1, 2, 3, 4]"]}],"origin":["Lateral Epicondyle [1, 2, 3, 4, 6]"],"insertion":["Four Fingers [1]Second & Third Phalanges","Second & Third Phalanges","Index [5]Proximal PhalanxExtensor Expansion","Proximal Phalanx","Extensor Expansion","Little [6]Proximal Phalanx","Proximal Phalanx","Second & Third Phalanges","Proximal Phalanx","Extensor Expansion","Proximal Phalanx","Base of Distal Phalanx [7]","Base of Proximal Phalanx [8]","Second [2]","Third [3]","Fifth [4]"]},{"name":"Wrist Flexors","image":null,"heads":["Flexor Digitorum Superficialis","Flexor Digitorum Profundus4 Heads","4 Heads","Flexor Carpi Radialis","Flexor Carpi Ulnaris","Palmaris Longus","Flexor Pollicis Longus"],"articulations":[{"name":"Wrist","movements":["Flexion [1, 2, 3, 4, 5, 6]","Abduction [3]","Adduction [4]"]},{"name":"Fingers","movements":["Flexion [1, 2]","Adduction [1, 2]"]},{"name":"Thumb","movements":["Flexion [6]"]},{"name":"Elbow (very weak)","movements":["Flexion [1, 3, 4, 5]"]}],"origin":["Medial Epicondyle [1, 3 , 4, 5]","Medial Coronoid [1]","Proximal 3/4 (Anterior & Medial) [2]","Proximal Posterior [4]"],"insertion":["Sides of middle phalanges [1]","Base of distal phalanges [2]","Base of distal phalanx [6]","Second & Third [3]","Fifth [4]","Second, Third, Fourth, FifthPalmer Aponeurosis [5]","Palmer Aponeurosis [5]","Palmer Aponeurosis [5]","Pisiform","Hamate"]},{"name":"Adductors (Hip)","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22149%22%20height=%22539%22%3E%3C/svg%3E","heads":["Adductor Brevis","Adductor Longus","Adductor MagnusAnterior (adductor part)Posterior (hamstring part or ischial fibers)","Anterior (adductor part)","Posterior (hamstring part or ischial fibers)"],"articulations":[{"name":"Hip","movements":["Adduction [1, 2, 3 ]","Transverse Adduction [1, 2, 3 ]","Flexion (initial) [1, 2 ]","Extension [3]","External Rotation (during adduction) [1, 3 ]"]}],"origin":[],"insertion":["Lesser Trochanter [1 ]","Linea Aspera [1, 2, 3 ]","Medial Condyle Ridge [3 ]"]},{"name":"Brachialis","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22368%22%20height=%22120%22%3E%3C/svg%3E","heads":["Brachialis"],"articulations":[{"name":"Elbow","movements":["Flexion"]}],"origin":[],"insertion":["Coronoid Process"]},{"name":"Brachioradialis","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22368%22%20height=%22125%22%3E%3C/svg%3E","heads":["Brachioradialis"],"articulations":[{"name":"Elbow","movements":["Flexion"]}],"origin":["Lateral Condyle"],"insertion":["Styloid Process"]},{"name":"Biceps Brachii","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22368%22%20height=%22120%22%3E%3C/svg%3E","heads":["Long Head (Outer)","Short Head (Inner)"],"articulations":[{"name":"Elbow","movements":["Flexion [1, 2 ]"]},{"name":"Forearm","movements":["Supination [1, 2 ]"]},{"name":"Shoulder","movements":["Flexion (Weak) [2 ]","Transverse Flexion (Weak) [2 ]"]}],"origin":["Supraglenoid Tuberosity [1 ]","Coracoid Process [2 ]"],"insertion":["Tubercle [1, 2 ]","Bicipital Aponeurosis [1, 2 ]"]},{"name":"Infraspinatus","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22233%22%20height=%22224%22%3E%3C/svg%3E","heads":["Superior","Middle","Inferior"],"articulations":[{"name":"Shoulder","movements":["External Rotation","Transverse Abduction","Transverse Extension","Posterior Stability","Abduction (see notes)"]}],"origin":["Infraspinous fossa"],"insertion":["Greater Tubercle (Posterior)Middle Facet","Middle Facet","Middle Facet"]},{"name":"Teres Minor","image":null,"heads":["Teres Minor"],"articulations":[{"name":"Shoulder","movements":["External Rotation","Transverse Abduction","Transverse Extension","Posterior Stability"]}],"origin":["Lateral BorderPosterior on upper and middle part","Posterior on upper and middle part","Posterior on upper and middle part"],"insertion":["Greater Tubercle (Posterior)Inferior Facet","Inferior Facet","Inferior Facet"]},{"name":"Pectineus","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22149%22%20height=%22539%22%3E%3C/svg%3E","heads":["Pectineus"],"articulations":[{"name":"Hip","movements":["Adduction","Transverse Adduction","Flexion (initial)"]}],"origin":["Upper Border"],"insertion":["Below Trochanter"]},{"name":"Gracilis","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22149%22%20height=%22539%22%3E%3C/svg%3E","heads":["Gracilis"],"articulations":[{"name":"Hip","movements":["Adduction","Transverse Adduction"]},{"name":"Knee","movements":["Flexion"]}],"origin":["Body","Inferior Ramus"],"insertion":["Medial surface"]},{"name":"Teres Major","image":null,"heads":["Teres Major"],"articulations":[{"name":"Shoulder","movements":["Extension","Internal Rotation","Adduction"]}],"origin":["Inferior Angle (Posterior, Lateral)"],"insertion":["Intertubercular GrooveMedial Lip","Medial Lip","Medial Lip"]},{"name":"Hip External Rotators","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22183%22%20height=%22544%22%3E%3C/svg%3E","heads":["Piriformis","Gemellus Superior","Obturator Internus","Gemellus Inferior","Obturator Externus","Quadratus Femoris"],"articulations":[{"name":"Hip","movements":["External Rotation [1, 2, 3, 4, 5, 6 ]","Transverse Abduction [1, 5 ]","Internal Rotation [1] (see comments)"]}],"origin":["Anterior [1 ]","Sacrotuberous Ligament [1 ]","Posterior PortionsIschial Spine [2 ]Ischial TuberosityPosterior Portion [4 ]External Border [6 ]","Ischial Spine [2 ]","Ischial TuberosityPosterior Portion [4 ]External Border [6 ]","Posterior Portion [4 ]","External Border [6 ]","Obturator Foramen [5, 6 ]","Ischial Spine [2 ]","Ischial TuberosityPosterior Portion [4 ]External Border [6 ]","Posterior Portion [4 ]","External Border [6 ]","Posterior Portion [4 ]","External Border [6 ]","Inside Surfaces and Obturator Membrane [3 ]"],"insertion":["Greater TrochanterMedial Surface [2, 3, 4 ]Superior/Medial Surface [1 ]Posterior SurfaceQuadrate Tubercle [6 ]Trochanteric Fossa [5 ]","Medial Surface [2, 3, 4 ]","Superior/Medial Surface [1 ]","Posterior SurfaceQuadrate Tubercle [6 ]Trochanteric Fossa [5 ]","Quadrate Tubercle [6 ]","Trochanteric Fossa [5 ]","Medial Surface [2, 3, 4 ]","Superior/Medial Surface [1 ]","Posterior SurfaceQuadrate Tubercle [6 ]Trochanteric Fossa [5 ]","Quadrate Tubercle [6 ]","Trochanteric Fossa [5 ]","Quadrate Tubercle [6 ]","Trochanteric Fossa [5 ]"]},{"name":"Serratus Anterior","image":null,"heads":["DigitationsSuperiorInferior (Longer)","Superior","Inferior (Longer)"],"articulations":[{"name":"Scapula","movements":["Abduction [1, 2]","Upward Rotation [2]","Elevation (Weak) [1]"]}],"origin":["Upper 8 or 9"],"insertion":["Medial BorderAnterior Surface","Anterior Surface","Anterior Surface"]},{"name":"Tibialis Anterior","image":null,"heads":["Tibialis Anterior"],"articulations":[{"name":"Ankle","movements":["Dorsal Flexion"]},{"name":"Intertarsal","movements":["Inversion (Supination)"]}],"origin":[],"insertion":["Cueiform (Medial)"]},{"name":"Transverse Abdominis","image":null,"heads":["Transverse Abdominis"],"articulations":[{"name":"Spine (Lumbar)","movements":["Forced expirationpulls abdominal wall inward","pulls abdominal wall inward","Compresses and supports abdominal viscera","Assist in expulsion of abdominal organ contentsas in urination, defecation, vomiting, and child birth","as in urination, defecation, vomiting, and child birth","Intra-abdominal pressure"]}],"origin":["Costal cartilages","Inner surfaces","Illiac CrestInner rim","Inner rim","Inner rim","Lateral third"],"insertion":["Crest","Ilippectineal line"]},{"name":"Popliteus","image":"data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22218%22%20height=%22540%22%3E%3C/svg%3E","heads":["Popliteus"],"articulations":[{"name":"Knee","movements":["Flexion","Internal Rotation","Posterolateral stability of knee"]}],"origin":["Lateral Condyloid (Posterior)"],"insertion":["Upper posterior medial"]}]
+[
+    {
+        "name": "Sternocleidomastoid",
+        "image": null,
+        "heads": [
+            "Anterior Fibers",
+            "Posterior Fibers"
+        ],
+        "articulations": [
+            {
+                "name": "Neck (Atlantooccipital & Atlantoaxial)",
+                "movements": [
+                    "Flexion [1]Both Sides",
+                    "Both Sides",
+                    "Rotation [1, 2]Rotation right [Left Sternocleidomastoid]Rotation left [Right Sternocleidomastoid]",
+                    "Rotation right [Left Sternocleidomastoid]",
+                    "Rotation left [Right Sternocleidomastoid]",
+                    "Lateral Flexion [1, 2]Lateral flexion right [Right Sternocleidomastoid]Lateral flexion left [Left Sternocleidomastoid]",
+                    "Lateral flexion right [Right Sternocleidomastoid]",
+                    "Lateral flexion left [Left Sternocleidomastoid]",
+                    "Extension [2]"
+                ]
+            },
+            {
+                "name": "Spine (Cervical)",
+                "movements": [
+                    "Flexion [1, 2]Both Sides",
+                    "Both Sides",
+                    "Rotation [1, 2]Rotation right [Left Sternocleidomastoid]Rotation left [Right Sternocleidomastoid]",
+                    "Rotation right [Left Sternocleidomastoid]",
+                    "Rotation left [Right Sternocleidomastoid]",
+                    "Lateral Flexion [1, 2]Lateral flexion right [Right Sternocleidomastoid]Lateral flexion left [Left Sternocleidomastoid]",
+                    "Lateral flexion right [Right Sternocleidomastoid]",
+                    "Lateral flexion left [Left Sternocleidomastoid]"
+                ]
+            }
+        ],
+        "origin": [
+            "Manubrium"
+        ],
+        "insertion": [
+            "Mastoid Process"
+        ]
+    },
+    {
+        "name": "Rectus Abdominis",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22240%22%20height=%22336%22%3E%3C/svg%3E",
+        "heads": [
+            "Rectus Abdominis"
+        ],
+        "articulations": [
+            {
+                "name": "Spine (Lumbar)",
+                "movements": [
+                    "Flexion"
+                ]
+            }
+        ],
+        "origin": [
+            "Crest"
+        ],
+        "insertion": [
+            "Cartridge"
+        ]
+    },
+    {
+        "name": "Obliques",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22226%22%20height=%22337%22%3E%3C/svg%3E",
+        "heads": [
+            "External Oblique",
+            "Internal Oblique"
+        ],
+        "articulations": [
+            {
+                "name": "Spine(Lumbar)",
+                "movements": [
+                    "Flexion [1, 2]Both Sides",
+                    "Both Sides",
+                    "RotationRotation right [Left 1, Right 2]Rotation left [Right 1, Left 2]",
+                    "Rotation right [Left 1, Right 2]",
+                    "Rotation left [Right 1, Left 2]",
+                    "Lateral FlexionLateral flexion right [Right 1, Right 2]Lateral flexion left [Left 1, Left 2]",
+                    "Lateral flexion right [Right 1, Right 2]",
+                    "Lateral flexion left [Left 1, Left 2]",
+                    "Intra-abdominal Pressure [1, 2]"
+                ]
+            }
+        ],
+        "origin": [
+            "External Surfaces",
+            "Illiac CrestAnterior two thirds",
+            "Anterior two thirds",
+            "Anterior two thirds",
+            "Lateral two thirds"
+        ],
+        "insertion": [
+            "Anterior Crest",
+            "Crest [1]",
+            "Conjoint Tendon [2]",
+            "Inferior borders"
+        ]
+    },
+    {
+        "name": "Erector Spinae",
+        "image": "https://exrx.net/application/files/cache/thumbnails/0a6c97d23f6c2dae5a99827d7218cd80.png?ezimgfmt=rs%3Adevice%2Frscb11-1",
+        "heads": [
+            "IliocastalisLumborumThoracisCervicis",
+            "Lumborum",
+            "Thoracis",
+            "Cervicis",
+            "LongissimusThoracisCervicisCapitis",
+            "Thoracis",
+            "Cervicis",
+            "Capitis",
+            "SpinalisThoracisCervicisCapitis",
+            "Thoracis",
+            "Cervicis",
+            "Capitis"
+        ],
+        "articulations": [
+            {
+                "name": "Spine(Lumbar, Thoracic)",
+                "movements": [
+                    "Extension [1, 2, 3 ]",
+                    "Lateral Flexion [1 ]",
+                    "Rotation [1]"
+                ]
+            },
+            {
+                "name": "Spine (Cervical)",
+                "movements": [
+                    "Extension [1, 2, 3 ]",
+                    "Lateral Flexion [1, 2]",
+                    "Rotation [1, 2]"
+                ]
+            },
+            {
+                "name": "Neck (Atlantooccipital & Atlantoaxial)",
+                "movements": [
+                    "ExtensionBoth Sides [2, 3 ]",
+                    "Both Sides [2, 3 ]",
+                    "RotationRotation right [Right 2, 3 ]Rotation left [Left 2, 3 ]",
+                    "Rotation right [Right 2, 3 ]",
+                    "Rotation left [Left 2, 3 ]",
+                    "Lateral FlexionLateral flexion right [Right 2, 3 ]Lateral flexion left [Left 2, 3 ]",
+                    "Lateral flexion right [Right 2, 3 ]",
+                    "Lateral flexion left [Left 2, 3 ]"
+                ]
+            }
+        ],
+        "origin": [
+            "Lower Posterior Surface [1 ]",
+            "Transverse Processes [2 ]",
+            "Transverse Processes [2 ]",
+            "Transverse Processes [2, 3 ]",
+            "Transverse Processes [3 ]"
+        ],
+        "insertion": [
+            "Transverse Processes [1, 2 ]",
+            "Spinous Processes [3 ]",
+            "Transverse Processes [2 ]",
+            "Spinous Processes [3 ]",
+            "Mastoid Process [2 ]",
+            "Occipital Bone [3 ]"
+        ]
+    },
+    {
+        "name": "Quadratus Lumborum",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22260%22%20height=%22550%22%3E%3C/svg%3E",
+        "heads": [
+            "Quadratus Lumborum"
+        ],
+        "articulations": [
+            {
+                "name": "Spine(Lumbar)",
+                "movements": [
+                    "Lateral FlexionRight Lateral flexion [Right Quadratus Lumborum]Left Lateral flexion [Left Quadratus Lumborum]",
+                    "Right Lateral flexion [Right Quadratus Lumborum]",
+                    "Left Lateral flexion [Left Quadratus Lumborum]",
+                    "Rotation (from rotation to neutral position)",
+                    "Stabilizes pelvis and lumbar spine"
+                ]
+            }
+        ],
+        "origin": [
+            "Illiac CrestPosterior Inner Lip",
+            "Posterior Inner Lip",
+            "Posterior Inner Lip"
+        ],
+        "insertion": [
+            "Transverse Processes",
+            "Lower border"
+        ]
+    },
+    {
+        "name": "Iliopsoas",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22232%22%20height=%22339%22%3E%3C/svg%3E",
+        "heads": [
+            "Iliacus",
+            "PsoasMajorMinor",
+            "Major",
+            "Minor"
+        ],
+        "articulations": [
+            {
+                "name": "Hip",
+                "movements": [
+                    "Flexion [1, 2]"
+                ]
+            },
+            {
+                "name": "Spine (Thoracic & Lumbar)",
+                "movements": [
+                    "Rotation [2]"
+                ]
+            }
+        ],
+        "origin": [
+            "Inner Surface",
+            "Base",
+            "Thoracic Vertebrae (T-12)",
+            "Lumbar Vertebrae (L1-5)",
+            "Intervebral Discs"
+        ],
+        "insertion": [
+            "Lesser Trochanter [2 ]",
+            "Shaft below Lesser Trochanter [1 ]"
+        ]
+    },
+    {
+        "name": "Latissimus Dorsi",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22213%22%20height=%22381%22%3E%3C/svg%3E",
+        "heads": [
+            "Latissimus Dorsi"
+        ],
+        "articulations": [
+            {
+                "name": "Shoulder",
+                "movements": [
+                    "Adduction",
+                    "Extension",
+                    "Internal Rotation",
+                    "Transverse Extension"
+                ]
+            },
+            {
+                "name": "Scapula (Assists)",
+                "movements": [
+                    "Depression",
+                    "Downward Rotation",
+                    "Adduction"
+                ]
+            }
+        ],
+        "origin": [
+            "Posterior Crest",
+            "Lumbar Vertebrae (L1-5)",
+            "Thoracic Vertebrae (T7-12)",
+            "Lower 3 or 4 ribs"
+        ],
+        "insertion": [
+            "Intertubercular Groove (Medial Side)"
+        ]
+    },
+    {
+        "name": "Pectoralis Major (Sternal Head)",
+        "image": "https://exrx.net/application/files/cache/thumbnails/94a79adb32af9de89d7f10141f38252b.png?ezimgfmt=rs%3Adevice%2Frscb11-1",
+        "heads": [
+            "Sternal Head (1 of 2 )"
+        ],
+        "articulations": [
+            {
+                "name": "Shoulder",
+                "movements": [
+                    "Transverse Flexion",
+                    "Transverse Adduction",
+                    "Internal Rotation",
+                    "Adduction",
+                    "Extension"
+                ]
+            },
+            {
+                "name": "Scapula (Assists)",
+                "movements": [
+                    "Downward Rotation",
+                    "Depression",
+                    "Abduction (initial)"
+                ]
+            }
+        ],
+        "origin": [
+            "Costal Cartriges"
+        ],
+        "insertion": [
+            "Intertubercular Groove (Outer Lip)"
+        ]
+    },
+    {
+        "name": "Pectoralis Major (Clavicular Head)",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22270%22%20height=%22536%22%3E%3C/svg%3E",
+        "heads": [
+            "Clavicular Head (1 of 2 )"
+        ],
+        "articulations": [
+            {
+                "name": "Shoulder",
+                "movements": [
+                    "Transverse Flexion",
+                    "Transverse Adduction",
+                    "Internal Rotation",
+                    "Adduction",
+                    "Flexion",
+                    "Abduction"
+                ]
+            }
+        ],
+        "origin": [
+            "Medial Half"
+        ],
+        "insertion": [
+            "Intertubercular Groove (Outer Lip)"
+        ]
+    },
+    {
+        "name": "Trapezius (Middle Fibers)",
+        "image": null,
+        "heads": [
+            "Middle Fibers (1 of 3)"
+        ],
+        "articulations": [
+            {
+                "name": "Scapula",
+                "movements": [
+                    "Adduction",
+                    "Elevation",
+                    "Upward Rotation"
+                ]
+            }
+        ],
+        "origin": [
+            "Cervical Vertebrae (C7)Spinous Processes",
+            "Spinous Processes",
+            "Thoracic Vertebrae (T1-3)Spinous Processes",
+            "Spinous Processes",
+            "Spinous Processes",
+            "Spinous Processes"
+        ],
+        "insertion": [
+            "Acromion Process (Medial Border)",
+            "Spine (Superior)Upper Border",
+            "Upper Border",
+            "Upper Border"
+        ]
+    },
+    {
+        "name": "Levator Scapulae",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22301%22%20height=%22366%22%3E%3C/svg%3E",
+        "heads": [
+            "Levator Scapulae"
+        ],
+        "articulations": [
+            {
+                "name": "Scapula",
+                "movements": [
+                    "Elevation",
+                    "Downward Rotation",
+                    "Abduction"
+                ]
+            },
+            {
+                "name": "Spine (Cervical)",
+                "movements": [
+                    "Lateral FlexionLateral flexion right [Right Levator Scapulae]Lateral flexion left [Left Levator Scapulae]",
+                    "Lateral flexion right [Right Levator Scapulae]",
+                    "Lateral flexion left [Left Levator Scapulae]",
+                    "RotationRotation right [Right Levator Scapulae]Rotation left [Left Levator Scapulae]",
+                    "Rotation right [Right Levator Scapulae]",
+                    "Rotation left [Left Levator Scapulae]"
+                ]
+            }
+        ],
+        "origin": [
+            "Transverse Processes"
+        ],
+        "insertion": [
+            "Medial Border (Superior part)"
+        ]
+    },
+    {
+        "name": "Deltoid (Posterior)",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22288%22%20height=%22462%22%3E%3C/svg%3E",
+        "heads": [
+            "Posterior Deltoid (1 of 3 Deltoids)"
+        ],
+        "articulations": [
+            {
+                "name": "Shoulder",
+                "movements": [
+                    "Extension",
+                    "Transverse Extension",
+                    "Transverse Abduction",
+                    "External Rotation"
+                ]
+            }
+        ],
+        "origin": [
+            "Spine (Inferior edge)"
+        ],
+        "insertion": [
+            "Deltoid Tuberosity"
+        ]
+    },
+    {
+        "name": "Rhomboids",
+        "image": "https://exrx.net/application/files/6115/1006/9307/RhomboidsHalfSmall.png?ezimgfmt=rs%3Adevice%2Frscb11-1",
+        "heads": [
+            "Rhomboids Minor",
+            "Rhomboids Major"
+        ],
+        "articulations": [
+            {
+                "name": "Scapula",
+                "movements": [
+                    "Adduction [1, 2]",
+                    "Downward Rotation [1, 2]"
+                ]
+            }
+        ],
+        "origin": [
+            "Ligamentum Nuchae [1]",
+            "Cervical Vertebrae (C7) [1]Spinous Processes",
+            "Spinous Processes",
+            "Thoracic VertebraeSpinous ProcessesT1 [1]T2-T5 [2]",
+            "Spinous ProcessesT1 [1]T2-T5 [2]",
+            "T1 [1]",
+            "T2-T5 [2]",
+            "Spinous Processes",
+            "Spinous ProcessesT1 [1]T2-T5 [2]",
+            "T1 [1]",
+            "T2-T5 [2]",
+            "T1 [1]",
+            "T2-T5 [2]"
+        ],
+        "insertion": [
+            "Medial Border (Below spine)Superior [1]Inferior [2]",
+            "Superior [1]",
+            "Inferior [2]",
+            "Superior [1]",
+            "Inferior [2]"
+        ]
+    },
+    {
+        "name": "Trapezius (Lower Fibers)",
+        "image": null,
+        "heads": [
+            "Lower Fibers (1 of 3)"
+        ],
+        "articulations": [
+            {
+                "name": "Scapula",
+                "movements": [
+                    "Upper Rotation",
+                    "Adduction",
+                    "Depression"
+                ]
+            },
+            {
+                "name": "Spine (Thoracic) (weak)",
+                "movements": [
+                    "Extension"
+                ]
+            }
+        ],
+        "origin": [
+            "Thoracic Vertebrae (T4-12)Spinous Processes",
+            "Spinous Processes",
+            "Spinous Processes"
+        ],
+        "insertion": [
+            "Spine (Inferior Medial)Triangular Space at Base",
+            "Triangular Space at Base",
+            "Triangular Space at Base"
+        ]
+    },
+    {
+        "name": "Triceps Brachii",
+        "image": null,
+        "heads": [
+            "Long Head",
+            "Lateral Head",
+            "Medial Head"
+        ],
+        "articulations": [
+            {
+                "name": "Elbow",
+                "movements": [
+                    "Extension [1, 2 , 3 ]"
+                ]
+            },
+            {
+                "name": "Shoulder",
+                "movements": [
+                    "Extension [1 ]",
+                    "Adduction [1 ]"
+                ]
+            }
+        ],
+        "origin": [
+            "Infraglenoid Tubercle",
+            "Superior to Radial Groove [2 ]",
+            "Inferior to Radial Groove [3 ]"
+        ],
+        "insertion": [
+            "Olecranon Process"
+        ]
+    },
+    {
+        "name": "Pectoralis Minor",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22250%22%20height=%22260%22%3E%3C/svg%3E",
+        "heads": [
+            "3 Heads"
+        ],
+        "articulations": [
+            {
+                "name": "Scapula",
+                "movements": [
+                    "Abduction",
+                    "Downward Rotation (During Abduction)",
+                    "Depression"
+                ]
+            }
+        ],
+        "origin": [
+            "Anterior Surface"
+        ],
+        "insertion": [
+            "Caracoid Process (Medial Border)"
+        ]
+    },
+    {
+        "name": "Splenius",
+        "image": null,
+        "heads": [
+            "Cervicis Splenius",
+            "Capitis Splenius"
+        ],
+        "articulations": [
+            {
+                "name": "Neck (Atlantooccipital & Atlantoaxial)",
+                "movements": [
+                    "ExtensionBoth Sides [2 ]",
+                    "Both Sides [2 ]",
+                    "RotationRotation right [Right 2 ]Rotation left [Left 2 ]",
+                    "Rotation right [Right 2 ]",
+                    "Rotation left [Left 2 ]",
+                    "Lateral FlexionLateral flexion right [Right 2 ]Lateral flexion left [Left 2 ]",
+                    "Lateral flexion right [Right 2 ]",
+                    "Lateral flexion left [Left 2 ]"
+                ]
+            },
+            {
+                "name": "Spine (Cervical)",
+                "movements": [
+                    "ExtensionBoth Sides [1, 2 ]",
+                    "Both Sides [1, 2 ]",
+                    "RotationRotation right [Right 1, 2 ]Rotation left [Left 1, 2 ]",
+                    "Rotation right [Right 1, 2 ]",
+                    "Rotation left [Left 1, 2 ]",
+                    "Lateral FlexionLateral flexion right [Right 1, 2 ]Lateral flexion left [Left 1, 2 ]",
+                    "Lateral flexion right [Right 1, 2 ]",
+                    "Lateral flexion left [Left 1, 2 ]"
+                ]
+            }
+        ],
+        "origin": [
+            "Thoracic Vertebrae (T3-6) [1 ]Spinous Processes",
+            "Spinous Processes",
+            "Thoracic Vertebrae (T3-4) [2 ]Spinous Processes",
+            "Spinous Processes",
+            "Cervical Vertebrae (C7) [2 ]Spinous Processes",
+            "Spinous Processes",
+            "Spinous Processes",
+            "Spinous Processes",
+            "Spinous Processes",
+            "Lower Half"
+        ],
+        "insertion": [
+            "Cervical Vertebrae (C1-3)Transverse Processes",
+            "Transverse Processes",
+            "Transverse Processes",
+            "Mastoid Process",
+            "Occipital Bone"
+        ]
+    },
+    {
+        "name": "Trapezius (Upper Fibers)",
+        "image": null,
+        "heads": [
+            "Upper Fibers (1 of 3)Part IPart II",
+            "Part I",
+            "Part II"
+        ],
+        "articulations": [
+            {
+                "name": "Scapula",
+                "movements": [
+                    "Elevation [1, 2]"
+                ]
+            },
+            {
+                "name": "Spine (Cervical)",
+                "movements": [
+                    "Extension [1]"
+                ]
+            },
+            {
+                "name": "Neck (Atlantoccipital & Antlantoaxial)",
+                "movements": [
+                    "Extension [1]",
+                    "Lateral Flexion [1]",
+                    "Rotation [1]"
+                ]
+            }
+        ],
+        "origin": [
+            "Superior Nuchal Line (Medial Third)",
+            "Occipital Protuberance (External)"
+        ],
+        "insertion": [
+            "Lateral Third (Posterior) [ 1, 2]"
+        ]
+    },
+    {
+        "name": "Quadriceps",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22149%22%20height=%22539%22%3E%3C/svg%3E",
+        "heads": [
+            "Rectus Femoris",
+            "Vastus Lateralis (Externus)",
+            "Vastus Intermedius",
+            "Vastus Medialis (Internus)"
+        ],
+        "articulations": [
+            {
+                "name": "Knee",
+                "movements": [
+                    "Extension [1, 2, 3, 4 ]"
+                ]
+            },
+            {
+                "name": "Hip",
+                "movements": [
+                    "Flexion [1 ]"
+                ]
+            }
+        ],
+        "origin": [
+            "Iliac Spine (Anterior Inferior)",
+            "Lateral Surface [2 ]",
+            "Anterior Surface [3 ]",
+            "Medial Surface [4 ]"
+        ],
+        "insertion": [
+            "TuberosityPatellar TendonPatella",
+            "Patellar TendonPatella",
+            "Patella",
+            "Patellar TendonPatella",
+            "Patella",
+            "Patella"
+        ]
+    },
+    {
+        "name": "Tensor Fasciae Latae",
+        "image": null,
+        "heads": [
+            "Tensor Fasciae Latae"
+        ],
+        "articulations": [
+            {
+                "name": "Hip",
+                "movements": [
+                    "Flexion",
+                    "Abduction",
+                    "Internal Rotation"
+                ]
+            }
+        ],
+        "origin": [
+            "Iliac Spine (Anterior Superior)"
+        ],
+        "insertion": [
+            "Lateral CondyleIliotibial Tract (Lateral Thigh)",
+            "Iliotibial Tract (Lateral Thigh)",
+            "Iliotibial Tract (Lateral Thigh)"
+        ]
+    },
+    {
+        "name": "Sartorius",
+        "image": null,
+        "heads": [
+            "Sartorius"
+        ],
+        "articulations": [
+            {
+                "name": "Hip",
+                "movements": [
+                    "Flexion",
+                    "Abduction",
+                    "External Rotation"
+                ]
+            },
+            {
+                "name": "Knee",
+                "movements": [
+                    "Flexion"
+                ]
+            }
+        ],
+        "origin": [
+            "Iliac Spine (Anterior Superior)"
+        ],
+        "insertion": [
+            "Medial Condyle (Anterior)"
+        ]
+    },
+    {
+        "name": "Gastrocnemius",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22228%22%20height=%22418%22%3E%3C/svg%3E",
+        "heads": [
+            "Medial Head",
+            "Lateral Head"
+        ],
+        "articulations": [
+            {
+                "name": "Ankle",
+                "movements": [
+                    "Plantar Flexion [1, 2 ]"
+                ]
+            },
+            {
+                "name": "Knee",
+                "movements": [
+                    "Flexion [1, 2 ]"
+                ]
+            }
+        ],
+        "origin": [
+            "Medial Condyle (Posterior) [1 ]",
+            "Lateral Condyle (Posterior) [2 ]"
+        ],
+        "insertion": [
+            "Achilles Tendon [1, 2 ]"
+        ]
+    },
+    {
+        "name": "Soleus",
+        "image": null,
+        "heads": [
+            "Soleus"
+        ],
+        "articulations": [
+            {
+                "name": "Ankle",
+                "movements": [
+                    "Plantar Flexion"
+                ]
+            }
+        ],
+        "origin": [],
+        "insertion": [
+            "Achilles Tendon"
+        ]
+    },
+    {
+        "name": "Gluteus Medius",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22157%22%20height=%22544%22%3E%3C/svg%3E",
+        "heads": [
+            "Anterior Fibers",
+            "Posterior Fibers"
+        ],
+        "articulations": [
+            {
+                "name": "Hip",
+                "movements": [
+                    "Abduction [1, 2]",
+                    "Transverse Abduction [1, 2]",
+                    "Internal Rotation [1]",
+                    "External Rotation (during Abduction) [2]"
+                ]
+            }
+        ],
+        "origin": [
+            "External Surface just below crestAnterior [1]Posterior [2]",
+            "Anterior [1]",
+            "Posterior [2]",
+            "Anterior [1]",
+            "Posterior [2]"
+        ],
+        "insertion": [
+            "Greater TrochanterPosterior and Lateral Surface [1, 2]",
+            "Posterior and Lateral Surface [1, 2]",
+            "Posterior and Lateral Surface [1, 2]"
+        ]
+    },
+    {
+        "name": "Gluteus Minimus",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22250%22%20height=%22365%22%3E%3C/svg%3E",
+        "heads": [
+            "Gluteus Minimus"
+        ],
+        "articulations": [
+            {
+                "name": "Hip",
+                "movements": [
+                    "Abduction",
+                    "Transverse Abduction",
+                    "Internal Rotation (during Abduction)"
+                ]
+            }
+        ],
+        "origin": [
+            "External SurfaceBelow the origin of the Gluteus Medius",
+            "Below the origin of the Gluteus Medius",
+            "Below the origin of the Gluteus Medius"
+        ],
+        "insertion": [
+            "Greater TrochanterAnterior Surface",
+            "Anterior Surface",
+            "Anterior Surface"
+        ]
+    },
+    {
+        "name": "Serratus Anterior",
+        "image": null,
+        "heads": [
+            "DigitationsSuperiorInferior (Longer)",
+            "Superior",
+            "Inferior (Longer)"
+        ],
+        "articulations": [
+            {
+                "name": "Scapula",
+                "movements": [
+                    "Abduction [1, 2]",
+                    "Upward Rotation [2]",
+                    "Elevation (Weak) [1]"
+                ]
+            }
+        ],
+        "origin": [
+            "Upper 8 or 9"
+        ],
+        "insertion": [
+            "Medial BorderAnterior Surface",
+            "Anterior Surface",
+            "Anterior Surface"
+        ]
+    },
+    {
+        "name": "Deltoid (Anterior)",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22270%22%20height=%22536%22%3E%3C/svg%3E",
+        "heads": [
+            "Anterior Deltoid (1 of 3)"
+        ],
+        "articulations": [
+            {
+                "name": "Shoulder",
+                "movements": [
+                    "Abduction",
+                    "Flexion",
+                    "Transverse Flexion",
+                    "Internal Rotation"
+                ]
+            }
+        ],
+        "origin": [],
+        "insertion": [
+            "Deltoid Tuberosity"
+        ]
+    },
+    {
+        "name": "Hamstrings",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22157%22%20height=%22544%22%3E%3C/svg%3E",
+        "heads": [
+            "Biceps Femoris, Long Head",
+            "Biceps Femoris, Short Head",
+            "Semitendinosus",
+            "Semimembranosus"
+        ],
+        "articulations": [
+            {
+                "name": "Knee",
+                "movements": [
+                    "Flexion [1, 2, 3, 4 ]",
+                    "External Rotation [1, 2 ]",
+                    "Internal Rotation [3, 4 ]"
+                ]
+            },
+            {
+                "name": "Hip",
+                "movements": [
+                    "Extension [1, 3, 4 ]"
+                ]
+            }
+        ],
+        "origin": [
+            "Ishial Tuberosity [1, 3, 4 ]",
+            "Linea Aspera",
+            "Lateral Condyloid Ridge"
+        ],
+        "insertion": [
+            "Lateral Condyle [1, 2 ]?",
+            "Medial Condyle [3, 4 ]",
+            "Head [1, 2 ]"
+        ]
+    },
+    {
+        "name": "Deltoid (Lateral)",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22288%22%20height=%22462%22%3E%3C/svg%3E",
+        "heads": [
+            "Lateral Deltoid (1 of 3 Deltoids)"
+        ],
+        "articulations": [
+            {
+                "name": "Shoulder",
+                "movements": [
+                    "Abduction",
+                    "Flexion",
+                    "Transverse Abduction"
+                ]
+            }
+        ],
+        "origin": [
+            "Acromion (Lateral)"
+        ],
+        "insertion": [
+            "Deltoid Tuberosity"
+        ]
+    },
+    {
+        "name": "Supraspinatus",
+        "image": null,
+        "heads": [
+            "Supraspinatus"
+        ],
+        "articulations": [
+            {
+                "name": "Shoulder",
+                "movements": [
+                    "Abduction",
+                    "External Rotation *",
+                    "Internal Rotation *",
+                    "Stabilization"
+                ]
+            }
+        ],
+        "origin": [
+            "Supraspinous fossa"
+        ],
+        "insertion": [
+            "Greater Tubercle (Superior)"
+        ]
+    },
+    {
+        "name": "Wrist Extensors",
+        "image": null,
+        "heads": [
+            "Extensor Digitorum",
+            "Extensor Carpi Radialis Longus",
+            "Extensor Carpi Radialis Brevis",
+            "Extensor Carpi Ulnaris",
+            "Extensor Indicis",
+            "Extensor Digiti Minimi",
+            "Entensor Pollicis Longus",
+            "Extensor Pollicis Brevis"
+        ],
+        "articulations": [
+            {
+                "name": "Wrist",
+                "movements": [
+                    "Extension [1, 2, 3, 4, 5, 6, 7]",
+                    "Abduction [2, 3, 7, 8]",
+                    "Adduction [4]"
+                ]
+            },
+            {
+                "name": "Fingers",
+                "movements": [
+                    "ExtensionIndex [1, 5]Middle [1]Ring [1]Little [1, 6]",
+                    "Index [1, 5]",
+                    "Middle [1]",
+                    "Ring [1]",
+                    "Little [1, 6]",
+                    "AbductionIndex [1, 5]Middle [1]Ring [1]Little [1, 6]",
+                    "Index [1, 5]",
+                    "Middle [1]",
+                    "Ring [1]",
+                    "Little [1, 6]"
+                ]
+            },
+            {
+                "name": "Thumb",
+                "movements": [
+                    "Extension [7, 8]"
+                ]
+            },
+            {
+                "name": "Elbow (very weak)",
+                "movements": [
+                    "Extension [1, 2, 3, 4]"
+                ]
+            }
+        ],
+        "origin": [
+            "Lateral Epicondyle [1, 2, 3, 4, 6]"
+        ],
+        "insertion": [
+            "Four Fingers [1]Second & Third Phalanges",
+            "Second & Third Phalanges",
+            "Index [5]Proximal PhalanxExtensor Expansion",
+            "Proximal Phalanx",
+            "Extensor Expansion",
+            "Little [6]Proximal Phalanx",
+            "Proximal Phalanx",
+            "Second & Third Phalanges",
+            "Proximal Phalanx",
+            "Extensor Expansion",
+            "Proximal Phalanx",
+            "Base of Distal Phalanx [7]",
+            "Base of Proximal Phalanx [8]",
+            "Second [2]",
+            "Third [3]",
+            "Fifth [4]"
+        ]
+    },
+    {
+        "name": "Wrist Flexors",
+        "image": null,
+        "heads": [
+            "Flexor Digitorum Superficialis",
+            "Flexor Digitorum Profundus4 Heads",
+            "4 Heads",
+            "Flexor Carpi Radialis",
+            "Flexor Carpi Ulnaris",
+            "Palmaris Longus",
+            "Flexor Pollicis Longus"
+        ],
+        "articulations": [
+            {
+                "name": "Wrist",
+                "movements": [
+                    "Flexion [1, 2, 3, 4, 5, 6]",
+                    "Abduction [3]",
+                    "Adduction [4]"
+                ]
+            },
+            {
+                "name": "Fingers",
+                "movements": [
+                    "Flexion [1, 2]",
+                    "Adduction [1, 2]"
+                ]
+            },
+            {
+                "name": "Thumb",
+                "movements": [
+                    "Flexion [6]"
+                ]
+            },
+            {
+                "name": "Elbow (very weak)",
+                "movements": [
+                    "Flexion [1, 3, 4, 5]"
+                ]
+            }
+        ],
+        "origin": [
+            "Medial Epicondyle [1, 3 , 4, 5]",
+            "Medial Coronoid [1]",
+            "Proximal 3/4 (Anterior & Medial) [2]",
+            "Proximal Posterior [4]"
+        ],
+        "insertion": [
+            "Sides of middle phalanges [1]",
+            "Base of distal phalanges [2]",
+            "Base of distal phalanx [6]",
+            "Second & Third [3]",
+            "Fifth [4]",
+            "Second, Third, Fourth, FifthPalmer Aponeurosis [5]",
+            "Palmer Aponeurosis [5]",
+            "Palmer Aponeurosis [5]",
+            "Pisiform",
+            "Hamate"
+        ]
+    },
+    {
+        "name": "Adductors (Hip)",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22149%22%20height=%22539%22%3E%3C/svg%3E",
+        "heads": [
+            "Adductor Brevis",
+            "Adductor Longus",
+            "Adductor MagnusAnterior (adductor part)Posterior (hamstring part or ischial fibers)",
+            "Anterior (adductor part)",
+            "Posterior (hamstring part or ischial fibers)"
+        ],
+        "articulations": [
+            {
+                "name": "Hip",
+                "movements": [
+                    "Adduction [1, 2, 3 ]",
+                    "Transverse Adduction [1, 2, 3 ]",
+                    "Flexion (initial) [1, 2 ]",
+                    "Extension [3]",
+                    "External Rotation (during adduction) [1, 3 ]"
+                ]
+            }
+        ],
+        "origin": [],
+        "insertion": [
+            "Lesser Trochanter [1 ]",
+            "Linea Aspera [1, 2, 3 ]",
+            "Medial Condyle Ridge [3 ]"
+        ]
+    },
+    {
+        "name": "Brachialis",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22368%22%20height=%22120%22%3E%3C/svg%3E",
+        "heads": [
+            "Brachialis"
+        ],
+        "articulations": [
+            {
+                "name": "Elbow",
+                "movements": [
+                    "Flexion"
+                ]
+            }
+        ],
+        "origin": [],
+        "insertion": [
+            "Coronoid Process"
+        ]
+    },
+    {
+        "name": "Brachioradialis",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22368%22%20height=%22125%22%3E%3C/svg%3E",
+        "heads": [
+            "Brachioradialis"
+        ],
+        "articulations": [
+            {
+                "name": "Elbow",
+                "movements": [
+                    "Flexion"
+                ]
+            }
+        ],
+        "origin": [
+            "Lateral Condyle"
+        ],
+        "insertion": [
+            "Styloid Process"
+        ]
+    },
+    {
+        "name": "Biceps Brachii",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22368%22%20height=%22120%22%3E%3C/svg%3E",
+        "heads": [
+            "Long Head (Outer)",
+            "Short Head (Inner)"
+        ],
+        "articulations": [
+            {
+                "name": "Elbow",
+                "movements": [
+                    "Flexion [1, 2 ]"
+                ]
+            },
+            {
+                "name": "Forearm",
+                "movements": [
+                    "Supination [1, 2 ]"
+                ]
+            },
+            {
+                "name": "Shoulder",
+                "movements": [
+                    "Flexion (Weak) [2 ]",
+                    "Transverse Flexion (Weak) [2 ]"
+                ]
+            }
+        ],
+        "origin": [
+            "Supraglenoid Tuberosity [1 ]",
+            "Coracoid Process [2 ]"
+        ],
+        "insertion": [
+            "Tubercle [1, 2 ]",
+            "Bicipital Aponeurosis [1, 2 ]"
+        ]
+    },
+    {
+        "name": "Infraspinatus",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22233%22%20height=%22224%22%3E%3C/svg%3E",
+        "heads": [
+            "Superior",
+            "Middle",
+            "Inferior"
+        ],
+        "articulations": [
+            {
+                "name": "Shoulder",
+                "movements": [
+                    "External Rotation",
+                    "Transverse Abduction",
+                    "Transverse Extension",
+                    "Posterior Stability",
+                    "Abduction (see notes)"
+                ]
+            }
+        ],
+        "origin": [
+            "Infraspinous fossa"
+        ],
+        "insertion": [
+            "Greater Tubercle (Posterior)Middle Facet",
+            "Middle Facet",
+            "Middle Facet"
+        ]
+    },
+    {
+        "name": "Teres Minor",
+        "image": null,
+        "heads": [
+            "Teres Minor"
+        ],
+        "articulations": [
+            {
+                "name": "Shoulder",
+                "movements": [
+                    "External Rotation",
+                    "Transverse Abduction",
+                    "Transverse Extension",
+                    "Posterior Stability"
+                ]
+            }
+        ],
+        "origin": [
+            "Lateral BorderPosterior on upper and middle part",
+            "Posterior on upper and middle part",
+            "Posterior on upper and middle part"
+        ],
+        "insertion": [
+            "Greater Tubercle (Posterior)Inferior Facet",
+            "Inferior Facet",
+            "Inferior Facet"
+        ]
+    },
+    {
+        "name": "Pectineus",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22149%22%20height=%22539%22%3E%3C/svg%3E",
+        "heads": [
+            "Pectineus"
+        ],
+        "articulations": [
+            {
+                "name": "Hip",
+                "movements": [
+                    "Adduction",
+                    "Transverse Adduction",
+                    "Flexion (initial)"
+                ]
+            }
+        ],
+        "origin": [
+            "Upper Border"
+        ],
+        "insertion": [
+            "Below Trochanter"
+        ]
+    },
+    {
+        "name": "Gracilis",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22149%22%20height=%22539%22%3E%3C/svg%3E",
+        "heads": [
+            "Gracilis"
+        ],
+        "articulations": [
+            {
+                "name": "Hip",
+                "movements": [
+                    "Adduction",
+                    "Transverse Adduction"
+                ]
+            },
+            {
+                "name": "Knee",
+                "movements": [
+                    "Flexion"
+                ]
+            }
+        ],
+        "origin": [
+            "Body",
+            "Inferior Ramus"
+        ],
+        "insertion": [
+            "Medial surface"
+        ]
+    },
+    {
+        "name": "Teres Major",
+        "image": null,
+        "heads": [
+            "Teres Major"
+        ],
+        "articulations": [
+            {
+                "name": "Shoulder",
+                "movements": [
+                    "Extension",
+                    "Internal Rotation",
+                    "Adduction"
+                ]
+            }
+        ],
+        "origin": [
+            "Inferior Angle (Posterior, Lateral)"
+        ],
+        "insertion": [
+            "Intertubercular GrooveMedial Lip",
+            "Medial Lip",
+            "Medial Lip"
+        ]
+    },
+    {
+        "name": "Hip External Rotators",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22183%22%20height=%22544%22%3E%3C/svg%3E",
+        "heads": [
+            "Piriformis",
+            "Gemellus Superior",
+            "Obturator Internus",
+            "Gemellus Inferior",
+            "Obturator Externus",
+            "Quadratus Femoris"
+        ],
+        "articulations": [
+            {
+                "name": "Hip",
+                "movements": [
+                    "External Rotation [1, 2, 3, 4, 5, 6 ]",
+                    "Transverse Abduction [1, 5 ]",
+                    "Internal Rotation [1] (see comments)"
+                ]
+            }
+        ],
+        "origin": [
+            "Anterior [1 ]",
+            "Sacrotuberous Ligament [1 ]",
+            "Posterior PortionsIschial Spine [2 ]Ischial TuberosityPosterior Portion [4 ]External Border [6 ]",
+            "Ischial Spine [2 ]",
+            "Ischial TuberosityPosterior Portion [4 ]External Border [6 ]",
+            "Posterior Portion [4 ]",
+            "External Border [6 ]",
+            "Obturator Foramen [5, 6 ]",
+            "Ischial Spine [2 ]",
+            "Ischial TuberosityPosterior Portion [4 ]External Border [6 ]",
+            "Posterior Portion [4 ]",
+            "External Border [6 ]",
+            "Posterior Portion [4 ]",
+            "External Border [6 ]",
+            "Inside Surfaces and Obturator Membrane [3 ]"
+        ],
+        "insertion": [
+            "Greater TrochanterMedial Surface [2, 3, 4 ]Superior/Medial Surface [1 ]Posterior SurfaceQuadrate Tubercle [6 ]Trochanteric Fossa [5 ]",
+            "Medial Surface [2, 3, 4 ]",
+            "Superior/Medial Surface [1 ]",
+            "Posterior SurfaceQuadrate Tubercle [6 ]Trochanteric Fossa [5 ]",
+            "Quadrate Tubercle [6 ]",
+            "Trochanteric Fossa [5 ]",
+            "Medial Surface [2, 3, 4 ]",
+            "Superior/Medial Surface [1 ]",
+            "Posterior SurfaceQuadrate Tubercle [6 ]Trochanteric Fossa [5 ]",
+            "Quadrate Tubercle [6 ]",
+            "Trochanteric Fossa [5 ]",
+            "Quadrate Tubercle [6 ]",
+            "Trochanteric Fossa [5 ]"
+        ]
+    },
+    {
+        "name": "Serratus Anterior",
+        "image": null,
+        "heads": [
+            "DigitationsSuperiorInferior (Longer)",
+            "Superior",
+            "Inferior (Longer)"
+        ],
+        "articulations": [
+            {
+                "name": "Scapula",
+                "movements": [
+                    "Abduction [1, 2]",
+                    "Upward Rotation [2]",
+                    "Elevation (Weak) [1]"
+                ]
+            }
+        ],
+        "origin": [
+            "Upper 8 or 9"
+        ],
+        "insertion": [
+            "Medial BorderAnterior Surface",
+            "Anterior Surface",
+            "Anterior Surface"
+        ]
+    },
+    {
+        "name": "Tibialis Anterior",
+        "image": null,
+        "heads": [
+            "Tibialis Anterior"
+        ],
+        "articulations": [
+            {
+                "name": "Ankle",
+                "movements": [
+                    "Dorsal Flexion"
+                ]
+            },
+            {
+                "name": "Intertarsal",
+                "movements": [
+                    "Inversion (Supination)"
+                ]
+            }
+        ],
+        "origin": [],
+        "insertion": [
+            "Cueiform (Medial)"
+        ]
+    },
+    {
+        "name": "Transverse Abdominis",
+        "image": null,
+        "heads": [
+            "Transverse Abdominis"
+        ],
+        "articulations": [
+            {
+                "name": "Spine (Lumbar)",
+                "movements": [
+                    "Forced expirationpulls abdominal wall inward",
+                    "pulls abdominal wall inward",
+                    "Compresses and supports abdominal viscera",
+                    "Assist in expulsion of abdominal organ contentsas in urination, defecation, vomiting, and child birth",
+                    "as in urination, defecation, vomiting, and child birth",
+                    "Intra-abdominal pressure"
+                ]
+            }
+        ],
+        "origin": [
+            "Costal cartilages",
+            "Inner surfaces",
+            "Illiac CrestInner rim",
+            "Inner rim",
+            "Inner rim",
+            "Lateral third"
+        ],
+        "insertion": [
+            "Crest",
+            "Ilippectineal line"
+        ]
+    },
+    {
+        "name": "Popliteus",
+        "image": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22218%22%20height=%22540%22%3E%3C/svg%3E",
+        "heads": [
+            "Popliteus"
+        ],
+        "articulations": [
+            {
+                "name": "Knee",
+                "movements": [
+                    "Flexion",
+                    "Internal Rotation",
+                    "Posterolateral stability of knee"
+                ]
+            }
+        ],
+        "origin": [
+            "Lateral Condyloid (Posterior)"
+        ],
+        "insertion": [
+            "Upper posterior medial"
+        ]
+    }
+]
